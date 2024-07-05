@@ -20,7 +20,7 @@ src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" padd
 </p>
 
 <p align="center">
-      <a href="https://fontmeme.com/fonts/swagger-font/"><img src="https://fontmeme.com/temporary/bfa56e957a99d7dd7b17912a302a4e9f.png" alt="Midnightfont" border="0"></a>
+      <a href="https://fontmeme.com/fonts/swagger-font/"><img src="https://fontmeme.com/temporary/0a924c523cd7ee61228ed8599c76ebd6.png" alt="Sweaggerfont" border="0"></a>
    </p>
 
 <p align="center">
