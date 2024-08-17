@@ -1,9 +1,9 @@
 <img align="right"
-src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" padding-top="100px"/>
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMydjJ4bWwyYjJnZ2R2MDgzNWp2d3B2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="50%" padding-top="100px"/>
 
 
    <p align="center">
-      <a href="https://fontmeme.com/fonts/swagger-font/"><img src="https://fontmeme.com/temporary/93274003957d0ea6f6bbce8d9b67d76e.png" alt="Midnightfont" border="0"></a>
+   <img src="https://github.com/user-attachments/assets/f5eaa476-1ce3-4d5b-847d-cf15eb7d0e5b" border="0"></a>
    </p>
 
    
@@ -15,13 +15,10 @@ src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" padd
 
 <p align="center">
    <a href="https://www.linkedin.com/in/icaro-bellem-8a0947235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <!--<a href="https://instagram.com/fajusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
    <a href="mailto:icarobellemapp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
 
-<p align="center">
-      <a href="https://fontmeme.com/fonts/swagger-font/"><img src="https://fontmeme.com/temporary/0a924c523cd7ee61228ed8599c76ebd6.png" alt="Sweaggerfont" border="0"></a>
-   </p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e37ab179-75d4-457a-a35a-1b3b7a955785" border="0"></p>
 
 <p align="center">
   <!-- Docker Icon -->
