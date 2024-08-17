@@ -22,9 +22,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMyd
 
 <p align="center">
   <!-- Docker Icon -->
-  <img align="center" alt="docker" height="30" width="40" src="https://www.svgrepo.com/show/349342/docker.svg"> 
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   <!-- .NET Icon -->
-  <img align="center" alt=".net" height="30" width="40" src="https://www.svgrepo.com/show/353668/dotnet.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!-- HTML Icon -->
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!-- CSS Icon -->
@@ -41,5 +41,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMyd
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </p>
 
-<!-- ![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg) -->
+ 
+
 
