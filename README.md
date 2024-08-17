@@ -20,7 +20,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMyd
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e37ab179-75d4-457a-a35a-1b3b7a955785" border="0"></p>
 
-<p align="center">
+<p align="left">
   <!-- Docker Icon -->
   <img align="center" alt="docker" height="30" width="40" src="https://www.svgrepo.com/show/349342/docker.svg"> 
   <!-- .NET Icon -->
