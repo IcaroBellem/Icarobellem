@@ -39,6 +39,11 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMyd
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <!-- NodeJs Icon -->
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <!-- Cypress Icon -->
+  <img align="center" alt="cypress" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg">
+   <!-- Playwright Icon -->
+  <img align="center" alt="playwright" height="30" width="40"    
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
 </p>
 
  
