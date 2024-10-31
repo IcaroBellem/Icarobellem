@@ -8,7 +8,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx2aDE1OGc5aWxtZmhocnMyd
 
    
 <h4 align="center"> 
-  Welcome to my profile! I'm a Fullstack C# developer. My favorite languages are C# and HTML5, working most the time with Frameworks like .NET and Angular. I'm related to use git, docker and command line on Linux. I really enjoy coding and to learn something new everyday. 🚀
+ Currently, I’m a QA professional with experience in software quality assurance and optimizing user experience. Before transitioning to QA, I worked as a backend and frontend developer, giving me a well-rounded view of the development cycle and helping me collaborate effectively with technical teams. I have an advanced level of English, allowing me to work on international projects and collaborate broadly. I also develop projects as a hobby, always seeking to learn more. 🚀
 </h4>
 
 ##
